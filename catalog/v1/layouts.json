@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "units": "normalized UV coordinates",
+  "image": { "width": 1024, "height": 1024, "colorSpace": "sRGB" },
+  "layouts": [
+    { "uvLayoutID": "upper-base-v1", "meshAsset": "outfit_base_tee", "guide": "guides/upper-base-v1.png", "textureSize": [1024, 1024], "uvOrigin": "bottom-left", "islands": 114 },
+    { "uvLayoutID": "lower-base-v1", "meshAsset": "pants_jeans", "guide": "guides/lower-base-v1.png", "textureSize": [1024, 1024], "uvOrigin": "bottom-left", "islands": 63 }
+  ]
+}
