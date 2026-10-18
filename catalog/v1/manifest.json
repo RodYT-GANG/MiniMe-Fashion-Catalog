@@ -1,4 +1,16 @@
 {
   "schemaVersion": 1,
-  "items": []
+  "catalogVersion": "1.0.0",
+  "items": [
+    {
+      "id": "hoodie-midnight-signal",
+      "category": "upper",
+      "title": "Midnight Signal Hoodie",
+      "texturePath": "catalog/v1/textures/hoodie-midnight-signal/albedo.png",
+      "meshAsset": "outfit_base_hoodie",
+      "assetVersion": "1.0.0",
+      "uvLayoutID": "upper-base-v1",
+      "sha256": "80b2ce354e2f11d56490eaf77e27122ae9cf2564d12ff696120b0bc02ffc44fa"
+    }
+  ]
 }

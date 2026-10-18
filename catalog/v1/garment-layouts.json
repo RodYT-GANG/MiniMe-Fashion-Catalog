@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "image": {
+    "width": 2048,
+    "height": 2048,
+    "colorSpace": "sRGB",
+    "uvOrigin": "bottom-left"
+  },
+  "garments": {
+    "hoodie": {
+      "category": "upper",
+      "meshAsset": "outfit_base_hoodie",
+      "uvLayoutID": "upper-base-v1",
+      "textureSize": [
+        2048,
+        2048
+      ],
+      "uvOrigin": "bottom-left; image row zero is top; u maps left-to-right",
+      "uvVertexCount": 3420,
+      "faceCount": 9890,
+      "blank": "templates/hoodie_blank.png",
+      "guide": "guides/hoodie_uv_guide.png",
+      "hasSeparateHoodUVRegion": false,
+      "note": "This shipped shell has no separate hood surface or hood UV island; texture artwork cannot create hood geometry."
+    },
+    "tee": {
+      "category": "upper",
+      "meshAsset": "outfit_base_tee",
+      "uvLayoutID": "upper-base-v1",
+      "textureSize": [
+        2048,
+        2048
+      ],
+      "uvOrigin": "bottom-left; image row zero is top; u maps left-to-right",
+      "uvVertexCount": 3420,
+      "faceCount": 9890,
+      "blank": "templates/tee_blank.png",
+      "guide": "guides/tee_uv_guide.png",
+      "hasSeparateHoodUVRegion": null,
+      "note": null
+    },
+    "jacket": {
+      "category": "upper",
+      "meshAsset": "outfit_base_jacket",
+      "uvLayoutID": "upper-base-v1",
+      "textureSize": [
+        2048,
+        2048
+      ],
+      "uvOrigin": "bottom-left; image row zero is top; u maps left-to-right",
+      "uvVertexCount": 3420,
+      "faceCount": 9890,
+      "blank": "templates/jacket_blank.png",
+      "guide": "guides/jacket_uv_guide.png",
+      "hasSeparateHoodUVRegion": null,
+      "note": null
+    },
+    "puffer": {
+      "category": "upper",
+      "meshAsset": "outfit_base_puffer",
+      "uvLayoutID": "upper-base-v1",
+      "textureSize": [
+        2048,
+        2048
+      ],
+      "uvOrigin": "bottom-left; image row zero is top; u maps left-to-right",
+      "uvVertexCount": 3420,
+      "faceCount": 9890,
+      "blank": "templates/puffer_blank.png",
+      "guide": "guides/puffer_uv_guide.png",
+      "hasSeparateHoodUVRegion": null,
+      "note": null
+    },
+    "jeans": {
+      "category": "lower",
+      "meshAsset": "pants_jeans",
+      "uvLayoutID": "lower-base-v1",
+      "textureSize": [
+        2048,
+        2048
+      ],
+      "uvOrigin": "bottom-left; image row zero is top; u maps left-to-right",
+      "uvVertexCount": 2112,
+      "faceCount": 6086,
+      "blank": "templates/jeans_blank.png",
+      "guide": "guides/jeans_uv_guide.png",
+      "hasSeparateHoodUVRegion": null,
+      "note": null
+    },
+    "sweatpants": {
+      "category": "lower",
+      "meshAsset": "pants_sweatpants",
+      "uvLayoutID": "lower-base-v1",
+      "textureSize": [
+        2048,
+        2048
+      ],
+      "uvOrigin": "bottom-left; image row zero is top; u maps left-to-right",
+      "uvVertexCount": 2112,
+      "faceCount": 6086,
+      "blank": "templates/sweatpants_blank.png",
+      "guide": "guides/sweatpants_uv_guide.png",
+      "hasSeparateHoodUVRegion": null,
+      "note": null
+    }
+  }
+}
